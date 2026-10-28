@@ -1,4 +1,4 @@
-# PathGuard Website (HTML · CSS · JavaScript)
+# 𝑵𝑨𝑽𝑰𝑿 Website (HTML · CSS · JavaScript)
 
 A plain static website — no React, no Node.js, no build step.
 

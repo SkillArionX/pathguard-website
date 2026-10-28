@@ -1,5 +1,5 @@
 /* ==========================================================================
-   PathGuard — site behaviour (plain JavaScript, no frameworks / no build step)
+   𝑵𝑨𝑽𝑰𝑿 — site behaviour (plain JavaScript, no frameworks / no build step)
    Sections:  1. Mobile menu   2. Scroll-reveal   3. Use-case carousel
               4. Product gallery   5. Contact demo form
    ========================================================================== */
@@ -126,7 +126,7 @@
   /* ---------- 4. Product gallery ---------- */
   // `native: true` = small source photo, shown at close to its real size so it stays sharp.
   var productViews = [
-    { label: 'Front View', note: 'PathGuard concept · full frame', image: 'images/pathguard-front-view.jpg' },
+    { label: 'Front View', note: '𝑵𝑨𝑽𝑰𝑿 concept · full frame', image: 'images/pathguard-front-view.jpg' },
     { label: 'Side View', note: 'Temple module with status light', image: 'images/pathguard-side-view.jpg' },
     { label: 'Camera Module', note: 'Conceptual camera and sensor area', image: 'images/pathguard-camera-module.jpg', native: true },
     { label: 'Worn View', note: 'Wearable concept in everyday use', image: 'images/pathguard-worn-view.jpg', native: true }
